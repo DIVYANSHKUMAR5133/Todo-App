@@ -17,7 +17,7 @@ This project is great for beginners to practice **DOM manipulation, event handli
 ---
 
  📸 Screenshot  
-![Todo App Screenshot](https://raw.githubusercontent.com/DIVYANSHKUMAR5133/Todo-App/main/screenshots/todo-preview.png)
+![Todo App Screenshot]([https://raw.githubusercontent.com/DIVYANSHKUMAR5133/Todo-App/main/screenshots/todo-preview.png](https://github.com/DIVYANSHKUMAR5133/Todo-App/blob/main/screenshots/Screenshot%202025-08-25%20000547.png?raw=true))
 
 ---
 
